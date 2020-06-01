@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.khepri.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\GoogleDrive\\Tese Project\\Khepri\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Khepri [Testing]"
+        }
+      }
+    }
+  ]
+}
