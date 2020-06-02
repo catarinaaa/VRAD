@@ -1,6 +1,24 @@
 # VRAD
 Master Thesis
 
+## Instructions
+
+Add to Julia file
+```
+Khepri.in_shape_collection(true)
+VRediting(@__FILE__)
+```
+
+Execute in REPL
+```
+myfunction()
+```
+
+| Key | Action |
+| ------ | ------ |
+| E | Opens Family panel |
+| V | Opens Global Variables panel |
+| B | Opens Add panel |
 
 ## Dependencies
 
