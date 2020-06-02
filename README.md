@@ -1,9 +1,10 @@
 # VRAD
 Master Thesis
 
+
 ## Dependencies
 
-## Software
+### Software
 * Atom - 1.42.0 x64
 * Julia - 1.2.0
 
@@ -18,3 +19,6 @@ Master Thesis
 * julia-client - v0.11.2
 * language-julia - v0.19.1
 * ink - v0.11.5
+
+### Unity Packages
+* [Hover UI Kit](https://github.com/aestheticinteractive/Hover-UI-Kit)
